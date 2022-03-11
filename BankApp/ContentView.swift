@@ -1,16 +1,16 @@
 //
 //  ContentView.swift
-//  Banking App
+//  BankApp
 //
-//  Created by Ed Salter on 3/11/22.
+//  Created by Mohammad Azam on 8/10/20.
+//  Copyright © 2020 Mohammad Azam. All rights reserved.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Hello, World!")
     }
 }
 
